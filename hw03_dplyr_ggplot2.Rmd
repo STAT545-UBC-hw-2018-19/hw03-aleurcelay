@@ -1,6 +1,7 @@
 ---
 title: "Alejandra_hw03_dplyr_ggplot2"
 output: github_document
+always_allow_html: yes
 ---
 
 
